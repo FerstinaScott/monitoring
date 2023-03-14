@@ -132,4 +132,5 @@ plotRGB(l2011, r=4, g=3, b=2, stretch="Lin")
 
 # Put the NIR in the blue channel
 plotRGB(l1988, r=2, g=3, b=4, stretch="Lin")  
-plotRGB(l2011, r=2, g=3, b=4, stretch="Hist")  
+plotRGB(l2011, r=2, g=3, b=4, stretch="Hist") 
+
