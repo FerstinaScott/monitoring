@@ -7,9 +7,7 @@ library(raster)
 library(rgdal)
 
 # Set the working directory
-setwd("~/lab/") # Linux 
-# setwd("C:/lab/")  # windows
-# setwd("/Users/name/lab/") # mac
+setwd("c:/Users/ferstinawady.scott/Documents/lab")
 
 # importing the data
 l1992 <- brick("defor1_.jpg") # image of 1992
