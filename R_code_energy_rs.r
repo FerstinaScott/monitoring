@@ -10,7 +10,7 @@ library(rgdal)
 setwd("c:/Users/ferstinawady.scott/Documents/lab")
 
 # importing the data
-l1992 <- brick("defor1_.png") # image of 1992
+l1992 <- brick("defor1_.jpg") # image of 1992
 l1992 
 
 # Bands: defor1_.1, defor1_.2, defor1_.3 
